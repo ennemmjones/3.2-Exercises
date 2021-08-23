@@ -1,0 +1,13 @@
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\obj\Debug\netcoreapp3.1\Exercise 37.csproj.AssemblyReference.cache
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\obj\Debug\netcoreapp3.1\Exercise 37.AssemblyInfoInputs.cache
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\obj\Debug\netcoreapp3.1\Exercise 37.AssemblyInfo.cs
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\obj\Debug\netcoreapp3.1\Exercise 37.csproj.CoreCompileInputs.cache
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\bin\Debug\netcoreapp3.1\Exercise 37.exe
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\bin\Debug\netcoreapp3.1\Exercise 37.deps.json
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\bin\Debug\netcoreapp3.1\Exercise 37.runtimeconfig.json
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\bin\Debug\netcoreapp3.1\Exercise 37.runtimeconfig.dev.json
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\bin\Debug\netcoreapp3.1\Exercise 37.dll
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\bin\Debug\netcoreapp3.1\Exercise 37.pdb
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\obj\Debug\netcoreapp3.1\Exercise 37.dll
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\obj\Debug\netcoreapp3.1\Exercise 37.pdb
+C:\Users\n\source\repos\3.2Exercises\Exercise 37\obj\Debug\netcoreapp3.1\Exercise 37.genruntimeconfig.cache
